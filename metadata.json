@@ -1,0 +1,6 @@
+{
+  "name": "Wayfinder",
+  "description": "An intelligent navigation compass and action-oriented guide helping people find a way forward through life's roadblocks, dilemmas, and complex obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
